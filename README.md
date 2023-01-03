@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaUmega
 - 👀 I’m interested in becoming a freelancer in Cyber Security
 - 🌱 I’m currently learning at Codam and on the job as an intern in Cyber Security
-- 🎓 eJPT Certified, next goal: OSCP
+- 🎓 eJPT Certified, OSCP - In Progress
 - 📫 You can reach me at https://www.linkedin.com/in/daumega/
 - 
