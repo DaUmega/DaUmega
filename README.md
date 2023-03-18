@@ -3,4 +3,3 @@
 - 🌱 I’m currently employed full time as a Cyber Security Consultant
 - 🎓 OSCP Certified
 - 📫 You can reach me at https://www.linkedin.com/in/daumega/
-- 
