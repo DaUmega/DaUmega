@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 I specialize in **offensive security assessments** and **custom software development**, helping organizations strengthen their security posture and build reliable solutions.  
 
-- 🔒 **Owner / Offensive Security Consultant** at [Buster Cybersecurity Ltd.](https://bustercybersec.com)  
+- 🔒 **Owner / Offensive Cybersecurity Consultant** at [Buster Cybersecurity Ltd.](https://bustercybersec.com)  
 - 🏥 Former **Cyber Security Consultant** at [ChipSoft](https://www.chipsoft.com), the largest healthcare software company in The Netherlands  
 - 🎓 [**OSCP Certified**](https://www.credential.net/44399a0b-6db6-42b5-b8ed-626aeff0ffe7)  
 - 💡 Freelance **full-stack developer** with experience in modern web apps, APIs, and automation tools  
