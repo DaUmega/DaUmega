@@ -25,10 +25,10 @@ I believe in **small codebases**, **zero bloat**, **zero unnecessary dependencie
 
 ## ⚡ Philosophy  
 I build things that:  
-- use **the least code possible**  
-- avoid **unnecessary libraries, frameworks, or tooling**  
-- favor **clarity over complexity**  
-- work reliably without heavy infrastructure  
+- Use **the least code possible**  
+- Avoid **unnecessary libraries, frameworks, or tooling**  
+- Favor **clarity over complexity**  
+- Work reliably without heavy infrastructure  
 
 **Why say many words when few do trick? Why ship many dependencies when one does job?**
 
@@ -40,5 +40,5 @@ I build things that:
 
 ---
 
-✨ Breaking things to understand them.  
+🔨 Breaking things to understand them.  
 ✨ Building things without the bloat.  
