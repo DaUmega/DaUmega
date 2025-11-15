@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 I work at the intersection of **Offensive Security** and **Minimalistic Software Design**.  
-I believe in **small codebases**, **zero bloat**, **zero unnecessary dependencies**, and solutions that are easy to understand, maintain, and deploy.
+Small code. No bloat. Few deps. Clear results.
 
 - 🔒 **Owner / Offensive Cybersecurity Consultant** at [Buster Cybersecurity Solutions](https://bustercybersec.com)  
 - 🏥 Former **Cyber Security Consultant** at [ChipSoft](https://www.chipsoft.com)  
@@ -16,21 +16,22 @@ I believe in **small codebases**, **zero bloat**, **zero unnecessary dependencie
 ---
 
 ## 🛠️ What I Do  
-- **Penetration Testing & Red Teaming** – find weaknesses before attackers do  
-- **Secure Code Reviews** – simple, practical, clear guidance  
-- **Custom Development** – fast, secure tools without the bloat  
-- **Consulting & Training** – security done the straightforward way  
+- **Penetration Testing & Red Teaming** — spot the holes before they get picked.  
+- **Secure Code Reviews** — clear feedback, nothing cryptic.  
+- **Custom Development** — tools that are fast and slick.  
+- **Consulting & Training** — practical, direct, and quick.
 
 ---
 
 ## ⚡ Philosophy  
-I build things that:  
-- Use **the least code possible**  
-- Avoid **unnecessary libraries, frameworks, or tooling**  
-- Favor **clarity over complexity**  
-- Work reliably without heavy infrastructure  
+**“Why waste time say lot word when few word do trick?”**  
+I ship what's lean, I ship what's slick.  
 
-**Why waste time say lot word when few word do trick? Why ship many dependencies when one does job?**
+Less code, less deps, less things to pick —  
+One tool that works beats a thousand that stick.  
+
+Clarity over cleverness, small wins that stick;  
+Minimal footprint, maximal kick.
 
 ---
 
@@ -40,5 +41,5 @@ I build things that:
 
 ---
 
-🔨 Breaking things to understand them.  
-✨ Building things without the bloat.  
+🔨 Breaking things to learn their flaws.
+✨ Building tools that serve a cause.
