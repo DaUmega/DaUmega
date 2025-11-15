@@ -41,5 +41,5 @@ Minimal footprint, maximal kick.
 
 ---
 
-🔨 Breaking things to learn their flaws.
+🔨 Breaking things to learn their flaws.  
 ✨ Building tools that serve a cause.
