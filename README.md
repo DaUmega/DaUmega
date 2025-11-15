@@ -30,7 +30,7 @@ I ship what's lean, I ship what's slick.
 Less code, less deps, less things to pick  
 One tool that works beats a thousand that stick.
 
-Clarity over cleverness, small wins that stick;  
+Purpose beats polish, small wins that stick  
 Minimal footprint, maximal kick.
 
 ---
