@@ -1,31 +1,44 @@
 # 👋 Hey, I’m DaUmega  
 
-💻 Offensive Cybersecurity Consultant | 🧑‍💻 Freelance Software Developer  
+💻 Offensive Cybersecurity Consultant • 🧑‍💻 Minimalist Software Developer  
 
 ---
 
 ## 🚀 About Me  
-I specialize in **offensive security assessments** and **custom software development**, helping organizations strengthen their security posture and build reliable solutions.  
+I work at the intersection of **Offensive Security** and **Minimalistic Software Design**.  
+I believe in **small codebases**, **zero bloat**, **zero unnecessary dependencies**, and solutions that are easy to understand, maintain, and deploy.
 
 - 🔒 **Owner / Offensive Cybersecurity Consultant** at [Buster Cybersecurity Solutions](https://bustercybersec.com)  
-- 🏥 Former **Cyber Security Consultant** at [ChipSoft](https://www.chipsoft.com), the largest healthcare software company in The Netherlands  
+- 🏥 Former **Cyber Security Consultant** at [ChipSoft](https://www.chipsoft.com)  
 - 🎓 [**OSCP Certified**](https://www.credential.net/44399a0b-6db6-42b5-b8ed-626aeff0ffe7)  
-- 💡 Freelance **full-stack developer** with experience in modern web apps, APIs, and automation tools  
+- 💡 Freelance **full-stack dev** focused on clean, efficient, dependency-light builds  
 
 ---
 
 ## 🛠️ What I Do  
-- **Penetration Testing & Red Teaming** – uncovering vulnerabilities before attackers do  
-- **Secure Code Reviews** – bridging the gap between security & development  
-- **Custom Software Development** – building efficient and secure solutions  
-- **Consulting & Training** – guiding teams to improve their cybersecurity mindset  
+- **Penetration Testing & Red Teaming** – find weaknesses before attackers do  
+- **Secure Code Reviews** – simple, practical, clear guidance  
+- **Custom Development** – fast, secure tools without the bloat  
+- **Consulting & Training** – security done the straightforward way  
 
 ---
 
-## 📫 Connect With Me  
+## ⚡ Philosophy  
+I build things that:  
+- use **the least code possible**  
+- avoid **unnecessary libraries, frameworks, or tooling**  
+- favor **clarity over complexity**  
+- work reliably without heavy infrastructure  
+
+**Why say many words when few do trick? Why ship many dependencies when one does job?**
+
+---
+
+## 📫 Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/daumega/)  
 - 💼 [Buster Cybersecurity](https://bustercybersec.com)  
 
 ---
 
-✨ Always curious. Always breaking. Always building.  
+✨ Breaking things to understand them.  
+✨ Building things without the bloat.  
