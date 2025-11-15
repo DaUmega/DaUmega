@@ -24,13 +24,13 @@ Small code. No bloat. Few deps. Clear results.
 ---
 
 ## ⚡ Philosophy  
-**“Why waste time say lot word when few word do trick?”**  
-I ship what's lean, I ship what's slick.  
+**“Why waste time say lot word when few word do trick?”**
+I ship what's lean, I ship what's slick.
 
-Less code, less deps, less things to pick  
-One tool that works beats a thousand that stick.  
+Less code, less deps, less things to pick
+One tool that works beats a thousand that stick.
 
-Clarity over cleverness, small wins that stick;  
+Clarity over cleverness, small wins that stick;
 Minimal footprint, maximal kick.
 
 ---
