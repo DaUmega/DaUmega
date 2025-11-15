@@ -24,7 +24,7 @@ Small code. No bloat. Few deps. Clear results.
 ---
 
 ## ⚡ Philosophy  
-**“Why waste time say lot word when few word do trick?”**
+**“Why waste time say lot word when few word do trick?”**  
 I ship what's lean, I ship what's slick.
 
 Less code, less deps, less things to pick
