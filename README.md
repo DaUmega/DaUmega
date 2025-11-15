@@ -16,10 +16,10 @@ Small code. No bloat. Few deps. Clear results.
 ---
 
 ## 🛠️ What I Do  
-- **Penetration Testing & Red Teaming** — spot the holes before they get picked.  
-- **Secure Code Reviews** — clear feedback, nothing cryptic.  
-- **Custom Development** — tools that are fast and slick.  
-- **Consulting & Training** — practical, direct, and quick.
+- **Penetration Testing & Red Teaming** - spot the holes before they get picked.  
+- **Secure Code Reviews** - clear feedback, nothing cryptic.  
+- **Custom Development** - tools that are fast and slick.  
+- **Consulting & Training** - practical, direct, and quick.
 
 ---
 
