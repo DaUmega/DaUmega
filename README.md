@@ -30,7 +30,7 @@ I build things that:
 - Favor **clarity over complexity**  
 - Work reliably without heavy infrastructure  
 
-**Why say many words when few do trick? Why ship many dependencies when one does job?**
+**Why waste time say lot word when few word do trick? Why ship many dependencies when one does job?**
 
 ---
 
