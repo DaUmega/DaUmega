@@ -1,6 +1,6 @@
 # 👋 Hey, I’m DaUmega  
 
-💻 Offensive Cybersecurity Consultant • 🧑‍💻 Minimalist Software Developer  
+💻 Offensive Cybersecurity Consultant | 🧑‍💻 Minimalist Software Developer  
 
 ---
 
