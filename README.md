@@ -36,7 +36,6 @@ Minimal footprint, maximal kick.
 ---
 
 ## 📫 Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/daumega/)  
 - 💼 [Buster Cybersecurity](https://bustercybersec.com)  
 
 ---
