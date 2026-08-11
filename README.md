@@ -8,7 +8,7 @@
 I work at the intersection of **Offensive Security** and **Minimalistic Software Design**.  
 Small code. No bloat. Few deps. Clear results.
 
-- 🔒 **Owner / Offensive Cybersecurity Consultant** at [Buster Cybersecurity Solutions](https://bustercybersec.com)  
+- 🔒 **Founder / Offensive Cybersecurity Consultant** at [Buster Cybersecurity Solutions](https://bustercybersec.com)  
 - 🏥 Former **Cyber Security Consultant** at [ChipSoft](https://www.chipsoft.com)  
 - 🎓 [**OSCP Certified**](https://www.credential.net/44399a0b-6db6-42b5-b8ed-626aeff0ffe7)  
 - 💡 Freelance **full-stack dev** focused on clean, efficient, dependency-light builds  
